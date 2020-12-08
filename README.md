@@ -5,4 +5,4 @@ Maven
 
 ##How to build and run  
 mvn clean install  
-java -jar target/FoodFight-1.0.0.jar
+java -jar target/FoodFight-1.0.0.jar  
